@@ -13,5 +13,6 @@ public class Main {
     static void task2(){
         String fullName = "Ivanov Ivan Ivanovich";
         System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета — " +fullName.toUpperCase());
+
     }
 }
